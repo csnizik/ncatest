@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0ed0d862-851e-4c01-a69b-ccb2bed5be9d"
+      }
+    },
+    "owner": "csnizik"
   }
 }
